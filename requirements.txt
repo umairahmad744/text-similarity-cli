@@ -1,0 +1,4 @@
+## Install Dependencies
+
+pip install scikit-learn pandas
+pip install sentence-transformers
