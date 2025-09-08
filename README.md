@@ -1,1 +1,1 @@
-# text-similarity-cli
+# Text-Similarity-Cli
